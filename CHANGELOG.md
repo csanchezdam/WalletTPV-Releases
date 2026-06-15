@@ -4,6 +4,15 @@ Registro histórico de los cambios y actualizaciones de la aplicación.
 
 ---
 
+## Versión 0.4.0
+> 📅 **Fecha de publicación:** *15 de junio de 2026*
+
+### Nuevas mejoras
+- **Compatibilidad:** Adaptado sistema de pagos a las nuevas restricciones de la API de Ágora (versiones >= 8.9.0).
+
+### Errores Corregidos
+- **Interfaz:** Se mostraban incorrectamente los colores de estado de las licencias cuando estaban caducadas o suspendidas.
+
 ## Versión 0.3.9
 > 📅 **Fecha de publicación:** *29 de mayo de 2026*
 

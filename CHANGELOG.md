@@ -4,7 +4,7 @@ Registro histórico de los cambios y actualizaciones de la aplicación.
 
 ---
 
-## Versión 0.4.1
+## ➤ Versión 0.4.1
 > 📅 **Fecha de publicación:** *14 de julio de 2026*
 
 ### Nuevas mejoras
@@ -17,7 +17,7 @@ Registro histórico de los cambios y actualizaciones de la aplicación.
 ### Errores Corregidos
 - **Importación:** Corregido un bug con el separador decimal al subir archivos de Excel.
 
-## Versión 0.4.0
+## ➤ Versión 0.4.0
 > 📅 **Fecha de publicación:** *15 de junio de 2026*
 
 ### Nuevas mejoras
@@ -26,7 +26,7 @@ Registro histórico de los cambios y actualizaciones de la aplicación.
 ### Errores Corregidos
 - **Interfaz:** Se mostraban incorrectamente los colores de estado de las licencias cuando estaban caducadas o suspendidas.
 
-## Versión 0.3.9
+## ➤ Versión 0.3.9
 > 📅 **Fecha de publicación:** *29 de mayo de 2026*
 
 > **Nota de la versión**: Esta es una versión preliminar y de prueba. Agradecemos enormemente tus comentarios y sugerencias para corregir errores antes del lanzamiento oficial.
